@@ -12,7 +12,7 @@ These instruction will walk you through using Amazon's AWS "Free Tier" (http://a
 ## Signing up with AWS
 Signup is fairly simple - just provide your email address and a password of your choosing - along with a phone number for a 2FA - a second method of authentication.
 You will need to also provide your VISA or other credit card information.
-* For Support Plan, choose "Basic Plan/Free" (Make sure you have at least $2 on yourcard or it will not activate)
+* For Support Plan, choose "Basic Plan/Free" (Make sure you have at least $2 on your card or it will not activate)
 
 Logout, then login again, and then select:
 * Services - from the top menu
